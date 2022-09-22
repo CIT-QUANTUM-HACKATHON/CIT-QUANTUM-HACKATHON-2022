@@ -1,8 +1,8 @@
 # CIT-QUANTUM-HACKATHON-2022
 
-                                                              QISKIT FALL FEST 2022
+#                                                              QISKIT FALL FEST 2022
 
-                                                      Coimbatore Institute of Technology
+#                                                      Coimbatore Institute of Technology
 
 Hallo Leute!
 
@@ -20,18 +20,24 @@ We are here with more exciting updates, kindly stick around. We are looking forw
 
 
 
-Organizers:
+# Organizers:
 
 Dr. Manjula Gandhi.S
+
 Kalai Priya.M
+
 Reshma.D
+
 Dharani Prasad.S
+
 Ajay.M
 
 
-For Queries
-Contact: 
+  For Queries
+# Contact: 
+
 Dharani Prasad - 9976794969
+
 Ajay - 6382993622
 
 
