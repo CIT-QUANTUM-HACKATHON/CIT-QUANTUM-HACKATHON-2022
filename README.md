@@ -6,7 +6,7 @@
 
 Hallo Leute!
 
-We take immense pleasure in organizing the CIT QUANTUM HACKATHON 2022 as part of the Qiskit Fall Fest sponsered by IBM Quantum - Qiskit.
+We take immense pleasure in organizing the CIT QUANTUM HACKATHON 2022 as part of the Qiskit Fall Fest sponsored by IBM Quantum - Qiskit.
 
 Niels Bohr was right in saying that “If Quantum mechanics hasn’t profoundly shocked you, you haven’t understood it yet”. Are you ready to get shocked with us at our gracious event? Most people think they need to have vast knowledge to win an international event when they actually need to begin with a small idea. 
 
@@ -34,13 +34,13 @@ Hackathon: 13 October 2022 - 19 October 2022
 
 Dr. Manjula Gandhi.S
 
-Kalai Priya.M
+Ms. Kalai Priya.M
 
-Reshma.D
+Ms. Reshma.D
 
-Dharani Prasad.S
+Mr. Dharani Prasad.S
 
-Ajay.M
+Mr. Ajay.M
 
 # Registration:
  
