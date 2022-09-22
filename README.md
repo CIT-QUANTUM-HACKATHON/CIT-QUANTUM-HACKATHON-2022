@@ -19,7 +19,17 @@ Our hackathon is exclusively for the high school  and college students in and ar
 We are here with more exciting updates, kindly stick around. We are looking forward to your presence in our event!
 
 
+# Dates:
 
+Start Date: 06 October 2022
+
+End Date: 19 October 2022
+
+Workshops: 06 October 2022 - 12 October 2022
+
+Hackathon: 13 October 2022 - 19 October 2022
+
+ 
 # Organizers:
 
 Dr. Manjula Gandhi.S
@@ -32,6 +42,9 @@ Dharani Prasad.S
 
 Ajay.M
 
+# Registration:
+ 
+To Register to CIT Quantum Hackathon 2022 - [Click Here]([url](https://forms.gle/27M5oqwLcHqDS4ie7))
 
 # For Queries Contact: 
 
