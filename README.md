@@ -33,8 +33,7 @@ Dharani Prasad.S
 Ajay.M
 
 
-# For Queries
-# Contact: 
+# For Queries Contact: 
 
 Dharani Prasad - 9976794969
 
