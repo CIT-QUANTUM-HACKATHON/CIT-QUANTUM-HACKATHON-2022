@@ -19,7 +19,7 @@ Our hackathon is exclusively for the high school  and college students in and ar
 We are here with more exciting updates, kindly stick around. We are looking forward to your presence in our event!
 
 
-# Dates:
+# Timeline:
 
 Start Date: 06 October 2022
 
