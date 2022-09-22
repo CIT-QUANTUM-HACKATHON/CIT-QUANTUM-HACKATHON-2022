@@ -44,7 +44,7 @@ Mr. Ajay.M
 
 # Registration:
  
-To Register to CIT Quantum Hackathon 2022 - []!([Click Here!](https://forms.gle/27M5oqwLcHqDS4ie7))
+To Register to CIT Quantum Hackathon 2022 - ([Click Here!](https://forms.gle/27M5oqwLcHqDS4ie7))
 
 # For Queries Contact: 
 
